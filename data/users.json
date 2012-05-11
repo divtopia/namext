@@ -1,0 +1,7 @@
+{
+	success: true,
+	users: [
+		{name: 'JP', email: 'jpadamsonline@gmail.com'},
+		{name: 'Jugga', email: 'jugga23@gmail.com'}
+	]
+}
